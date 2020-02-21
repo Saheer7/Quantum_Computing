@@ -10,4 +10,4 @@ This Repository guides you to explore Quantum Computing from scratch to advanced
 2) 
 
 
-- Note: This Repository is not on quantum mechanics. Everything here is based on the mathematical model of quantum computing. So, even the basic knowledge in quantum mechanics is not necessary.
+- Note: This Repository is not on quantum mechanics or Software Engineering. Everything here is based on the mathematical model of quantum computing. So, even the basic knowledge in quantum mechanics is not necessary.
